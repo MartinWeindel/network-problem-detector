@@ -17,7 +17,7 @@ require (
 	github.com/twitchtv/twirp v8.1.3+incompatible
 	go.uber.org/atomic v1.10.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/tools v0.5.0
+	golang.org/x/tools v0.20.0
 	google.golang.org/protobuf v1.28.1
 	k8s.io/api v0.26.1
 	k8s.io/apimachinery v0.26.1
